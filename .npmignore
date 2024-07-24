@@ -1,0 +1,12 @@
+node_modules
+src
+
+typedoc.json
+tsconfig.json
+pnpm-lock.yaml
+bin
+docs
+
+.github
+.env
+.changeset

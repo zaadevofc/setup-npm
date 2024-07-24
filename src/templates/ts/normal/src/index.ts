@@ -1,0 +1,1 @@
+export const hello = (suff: string) => `Hellow ${suff}`
